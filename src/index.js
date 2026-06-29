@@ -14,3 +14,4 @@ document.body.appendChild(image);
 
 let hi = "hi";
 let hello = () => console.log("hey");
+hello();

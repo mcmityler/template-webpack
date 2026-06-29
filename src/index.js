@@ -11,3 +11,6 @@ const image = document.createElement("img");
 image.src = testImage;
 
 document.body.appendChild(image);
+
+let hi = "hi";
+let hello = () => console.log("hey");
